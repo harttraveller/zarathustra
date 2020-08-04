@@ -23,3 +23,5 @@ Open Source, AI chatbot to provide global updates every morning.
 misc: make sure it actually runs at the same time each day
 
 5. add graphical user interface
+
+add prediction of whether it will be a beautiful sunrise, collect weather data and binary classification each morning so it can predict
